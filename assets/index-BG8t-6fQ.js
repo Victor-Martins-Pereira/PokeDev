@@ -227,4 +227,4 @@ Please change the parent <Route path="${Y}"> to <Route path="${Y==="/"?"*":`${Y}
   input {
     font-family: inherit;
   }
-`,gS=()=>{const{theme:n}=O.useContext(ao);return $.jsxs(X1,{theme:n==="light"?yS:vS,children:[$.jsx(pS,{}),$.jsx(mS,{})]})};dp.createRoot(document.getElementById("root")).render($.jsx(O.StrictMode,{children:$.jsx(Hg,{children:$.jsx(fS,{children:$.jsx(gS,{})})})}));
+`,gS=()=>{const{theme:n}=O.useContext(ao);return $.jsxs(X1,{theme:n==="light"?yS:vS,children:[$.jsx(pS,{}),$.jsx(mS,{})]})};dp.createRoot(document.getElementById("root")).render($.jsx(O.StrictMode,{children:$.jsx(Hg,{basename:"/PokeDev",children:$.jsx(fS,{children:$.jsx(gS,{})})})}));
