@@ -93,6 +93,10 @@ npm run dev
 
 ```
 
+## 🔗 Deploy
+A aplicação está disponível em:
+https://victor-martins-pereira.github.io/PokeDev/
+
 ## 💻 Autor
 
 **Desenvolvido por [Victor Martins Pereira](https://github.com/Victor-Martins-Pereira)**
