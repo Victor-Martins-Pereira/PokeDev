@@ -19,7 +19,7 @@ const AppWithTheme = () => {
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="/PokeDev">
       <ThemeProvider>
         <AppWithTheme />
       </ThemeProvider>
